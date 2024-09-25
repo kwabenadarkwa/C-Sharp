@@ -1,0 +1,15 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/bin/Debug/net8.0/bank
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/bin/Debug/net8.0/bank.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/bin/Debug/net8.0/bank.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/bin/Debug/net8.0/bank.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/bin/Debug/net8.0/bank.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/bank.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/bank.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/bank.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/bank.sourcelink.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/bank.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/refint/bank.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/bank.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/bank.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bank/obj/Debug/net8.0/ref/bank.dll

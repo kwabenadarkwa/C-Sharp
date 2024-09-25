@@ -1,0 +1,15 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/enums.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/enums.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/enums.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/enums.sourcelink.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/bin/Debug/net8.0/enums
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/bin/Debug/net8.0/enums.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/bin/Debug/net8.0/enums.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/bin/Debug/net8.0/enums.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/bin/Debug/net8.0/enums.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/enums.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/refint/enums.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/enums.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/enums.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/enums/obj/Debug/net8.0/ref/enums.dll
