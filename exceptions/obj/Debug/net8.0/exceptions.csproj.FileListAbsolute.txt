@@ -1,0 +1,14 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/bin/Debug/net8.0/exceptions
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/bin/Debug/net8.0/exceptions.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/bin/Debug/net8.0/exceptions.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/bin/Debug/net8.0/exceptions.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/bin/Debug/net8.0/exceptions.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/obj/Debug/net8.0/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/obj/Debug/net8.0/exceptions.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/obj/Debug/net8.0/exceptions.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/obj/Debug/net8.0/exceptions.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/obj/Debug/net8.0/exceptions.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/obj/Debug/net8.0/refint/exceptions.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/obj/Debug/net8.0/exceptions.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/obj/Debug/net8.0/exceptions.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/exceptions/obj/Debug/net8.0/ref/exceptions.dll

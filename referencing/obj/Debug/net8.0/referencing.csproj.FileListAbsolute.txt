@@ -1,0 +1,14 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/bin/Debug/net8.0/referencing
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/bin/Debug/net8.0/referencing.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/bin/Debug/net8.0/referencing.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/bin/Debug/net8.0/referencing.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/bin/Debug/net8.0/referencing.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/obj/Debug/net8.0/referencing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/obj/Debug/net8.0/referencing.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/obj/Debug/net8.0/referencing.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/obj/Debug/net8.0/referencing.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/obj/Debug/net8.0/referencing.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/obj/Debug/net8.0/refint/referencing.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/obj/Debug/net8.0/referencing.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/obj/Debug/net8.0/referencing.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/referencing/obj/Debug/net8.0/ref/referencing.dll

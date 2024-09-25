@@ -1,0 +1,14 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/bin/Debug/net8.0/first_project
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/bin/Debug/net8.0/first_project.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/bin/Debug/net8.0/first_project.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/bin/Debug/net8.0/first_project.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/bin/Debug/net8.0/first_project.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/obj/Debug/net8.0/first_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/obj/Debug/net8.0/first_project.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/obj/Debug/net8.0/first_project.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/obj/Debug/net8.0/first_project.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/obj/Debug/net8.0/first_project.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/obj/Debug/net8.0/refint/first_project.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/obj/Debug/net8.0/first_project.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/obj/Debug/net8.0/first_project.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/first_project/obj/Debug/net8.0/ref/first_project.dll
