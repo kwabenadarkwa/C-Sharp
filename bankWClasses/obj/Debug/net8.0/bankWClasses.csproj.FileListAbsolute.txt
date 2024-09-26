@@ -1,0 +1,15 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/bin/Debug/net8.0/bankWClasses
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/bin/Debug/net8.0/bankWClasses.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/bin/Debug/net8.0/bankWClasses.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/bin/Debug/net8.0/bankWClasses.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/bin/Debug/net8.0/bankWClasses.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/bankWClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/bankWClasses.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/bankWClasses.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/bankWClasses.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/bankWClasses.sourcelink.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/bankWClasses.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/refint/bankWClasses.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/bankWClasses.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/bankWClasses.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/bankWClasses/obj/Debug/net8.0/ref/bankWClasses.dll
