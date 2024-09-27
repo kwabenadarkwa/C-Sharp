@@ -5,7 +5,13 @@ public interface IAccount
     decimal GetBalance();
 }
 
-public class Account : IAccount
+public interface IPrintToPaper
+{
+    void DoPrint();
+}
+
+//INFO: a class can have as many interfaces as it wishes to have
+public class Account : IAccount, IPrintToPaper
 {
     private string name;
     private string address;
@@ -19,6 +25,9 @@ public class Account : IAccount
     //constructor allows us to define what happens when an instance of a class is created
     //it is mostly the same name as the class,
     //it is basically a method that allows us to set up the object that is being created
+
+    public void DoPrint() { }
+
     public Account(string Cname, string Caddress, decimal Cbalance)
     {
         name = Cname;
@@ -50,7 +59,7 @@ public class Account : IAccount
         return InterestRateCharged;
     }
 
-    public bool WithdrawFunds(decimal amount)
+    public virtual bool WithdrawFunds(decimal amount)
     {
         if (balance < amount)
         {
@@ -83,11 +92,28 @@ public class Account : IAccount
     }
 }
 
+//INFO: an example of how we are implementing an interface in a different way even
+//though wer're using the same methods
+public class BabyAccount : Account, IAccount
+{
+    private decimal balance = 0;
+
+    public override bool WithdrawFunds(decimal amount)
+    {
+        if (amount > 10 || balance < amount)
+        {
+            return false;
+        }
+        balance -= amount;
+        return true;
+    }
+}
+
 public class Interfaces
 {
     public static void Main()
     {
-        Account Kwabena;
-        Kwabena = new Account("Kwabena", "B4 89/20", 10001001010);
+        IAccount Kwabena = new Account("Kwabena", "B4 89/20", 10001001010);
+        ;
     }
 }
