@@ -1,0 +1,15 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/bin/Debug/net8.0/interface
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/bin/Debug/net8.0/interface.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/bin/Debug/net8.0/interface.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/bin/Debug/net8.0/interface.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/bin/Debug/net8.0/interface.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/interface.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/interface.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/interface.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/interface.sourcelink.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/interface.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/refint/interface.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/interface.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/interface.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interface/obj/Debug/net8.0/ref/interface.dll
