@@ -1,0 +1,15 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/bin/Debug/net8.0/interfaceTest
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/bin/Debug/net8.0/interfaceTest.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/bin/Debug/net8.0/interfaceTest.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/bin/Debug/net8.0/interfaceTest.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/bin/Debug/net8.0/interfaceTest.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/interfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/interfaceTest.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/interfaceTest.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/interfaceTest.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/interfaceTest.sourcelink.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/interfaceTest.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/refint/interfaceTest.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/interfaceTest.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/interfaceTest.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/interfaceTest/obj/Debug/net8.0/ref/interfaceTest.dll
