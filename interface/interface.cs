@@ -96,16 +96,15 @@ public class Account : IAccount, IPrintToPaper
 //though wer're using the same methods
 public class BabyAccount : Account, IAccount
 {
-    private decimal balance = 0;
-
     public override bool WithdrawFunds(decimal amount)
     {
-        if (amount > 10 || balance < amount)
+        if (amount > 10)
         {
             return false;
+
         }
-        balance -= amount;
-        return true;
+        //INFO: this allows us to access the private properties of the parent class
+        return base.WithdrawFunds(amount);
     }
 }
 
@@ -114,6 +113,6 @@ public class Interfaces
     public static void Main()
     {
         IAccount Kwabena = new Account("Kwabena", "B4 89/20", 10001001010);
-        ;
+        IAccount Ohemaa = new BabyAccount();
     }
 }
