@@ -1,0 +1,15 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/bin/Debug/net8.0/advancedProgramming
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/bin/Debug/net8.0/advancedProgramming.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/bin/Debug/net8.0/advancedProgramming.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/bin/Debug/net8.0/advancedProgramming.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/bin/Debug/net8.0/advancedProgramming.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/advancedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/advancedProgramming.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/advancedProgramming.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/advancedProgramming.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/advancedProgramming.sourcelink.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/advancedProgramming.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/refint/advancedProgramming.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/advancedProgramming.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/advancedProgramming.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/advancedProgramming/obj/Debug/net8.0/ref/advancedProgramming.dll
