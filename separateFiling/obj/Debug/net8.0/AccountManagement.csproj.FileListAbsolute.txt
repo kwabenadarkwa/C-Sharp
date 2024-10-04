@@ -1,0 +1,15 @@
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/bin/Debug/net8.0/AccountManagement
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/bin/Debug/net8.0/AccountManagement.deps.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/bin/Debug/net8.0/AccountManagement.runtimeconfig.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/bin/Debug/net8.0/AccountManagement.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/bin/Debug/net8.0/AccountManagement.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/AccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/AccountManagement.AssemblyInfoInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/AccountManagement.AssemblyInfo.cs
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/AccountManagement.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/AccountManagement.sourcelink.json
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/AccountManagement.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/refint/AccountManagement.dll
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/AccountManagement.pdb
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/AccountManagement.genruntimeconfig.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/separateFiling/obj/Debug/net8.0/ref/AccountManagement.dll

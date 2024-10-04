@@ -1,3 +1,1 @@
-namespace advancedProgramming{
-
-}
+namespace advancedProgramming { }

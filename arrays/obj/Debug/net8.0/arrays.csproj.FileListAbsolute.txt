@@ -7,6 +7,7 @@
 /Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/arrays/obj/Debug/net8.0/arrays.AssemblyInfoInputs.cache
 /Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/arrays/obj/Debug/net8.0/arrays.AssemblyInfo.cs
 /Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/arrays/obj/Debug/net8.0/arrays.csproj.CoreCompileInputs.cache
+/Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/arrays/obj/Debug/net8.0/arrays.sourcelink.json
 /Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/arrays/obj/Debug/net8.0/arrays.dll
 /Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/arrays/obj/Debug/net8.0/refint/arrays.dll
 /Users/kwabenadarkwa/Documents/NTU/Courses/First Semester/C Sharp/arrays/obj/Debug/net8.0/arrays.pdb

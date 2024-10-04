@@ -1,4 +1,4 @@
-namespace advancedProgramming 
+namespace advancedProgramming
 {
     public interface IAccount
     {
